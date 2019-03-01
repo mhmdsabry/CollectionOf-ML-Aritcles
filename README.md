@@ -2,7 +2,7 @@
 
 
 ### A visual proof that neural networks are universal function approximators:
-* <a href="http://neuralnetworksanddeeplearning.com/chap4.html" target="_blank">Link</a>
+* Link : http://neuralnetworksanddeeplearning.com/chap4.html
 
 
 
@@ -13,3 +13,8 @@
 
 ### Data science is different now:
 * Link : https://veekaybee.github.io/2019/02/13/data-science-is-different/
+
+
+### 7 Types of Regression Techniques you should know!
+* Link : https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/
+* Description : There are innumerable forms of regressions, which can be performed. Each form has its own importance and a specific condition where they are best suited to apply. This article explained the most commonly used 7 forms of regressions in a simple manner.
