@@ -2,7 +2,7 @@
 
 
 ### A visual proof that neural networks are universal function approximators:
-* [Link](http://neuralnetworksanddeeplearning.com/chap4.html){:target="_blank"}
+* <a href="http://neuralnetworksanddeeplearning.com/chap4.html" target="_blank">Link</a>
 
 
 
